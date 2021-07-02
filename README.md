@@ -3,6 +3,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/leonardo_felipe//)](https://www.hackerrank.com/leonardo_felipe)
+
 <!--
 **leonardo-felipe/leonardo-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
