@@ -1,14 +1,14 @@
 Hi 👋,  I'm Leonardo Felipe!
 
 I'm a Systems Analysis and Development undergraduate student and I live in Recife, Brazil.
-🌱 I’m currently learning JavaScript.
+
  
  📫 How to reach me: 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
 
 <!--
 🔭 I’m currently working on TRE-PE.
-
+🌱 I’m currently learning JavaScript.
  
 -->
 <!--
@@ -29,6 +29,3 @@ UI Portfolio: <br>
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe&theme=vue-dark)](https://github.com/leonardo-felipe)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=vue-dark)](https://github.com/leonardo-felipe/github-readme-stats)
