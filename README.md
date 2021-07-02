@@ -4,8 +4,11 @@ I'm a Systems Analysis and Development undergraduate student and I live in Recif
  
  📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
 
- 🌱 I’m currently learning JavaScript.
-
+<!--
+🔭 I’m currently working on TRE-PE.
+🌱 I’m currently learning JavaScript.
+ 
+-->
 <!--
 
 [![Linkedin Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@leonardofelipe//)](https://www.hackerearth.com/@leonardofelipe)
@@ -18,21 +21,6 @@ I'm a Systems Analysis and Development undergraduate student and I live in Recif
 
 [![Linkedin Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/leonardo-felipe//)](https://www.behance.net/leonardo-felipe)
 
--->
-
-<!--
-**leonardo-felipe/leonardo-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
