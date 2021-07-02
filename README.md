@@ -3,9 +3,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
 
+[![Linkedin Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@leonardofelipe//)](https://www.hackerearth.com/@leonardofelipe)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/leonardo_felipe//)](https://www.hackerrank.com/leonardo_felipe)
 
-[![Linkedin Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@leonardofelipe//)](https://www.hackerearth.com/@leonardofelipe)
+
 
 
 <!--
