@@ -3,7 +3,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
 
-<img src="{https://camo.githubusercontent.com/2500e7254bddd53d40d5bfd313d463d5cdff3c29f5bf254d9d7e6a681674fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4861636b657272616e6b2d3245433836363f7374796c653d666f722d7468652d6261646765266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d7768697465}">
 <!--
 **leonardo-felipe/leonardo-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
