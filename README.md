@@ -4,7 +4,7 @@ I'm a Systems Analysis and Development undergraduate student and I live in Recif
  
  📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
 
- 🌱 I’m currently learning ![Linkedin Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ 🌱 I’m currently learning JavaScript
 
 <!--
 
