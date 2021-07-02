@@ -10,7 +10,7 @@ I'm a Systems Analysis and Development undergraduate student and I live in Recif
 🌱 I’m currently learning JavaScript.
  
 -->
-<!-
+<!--
 
 My Profile in Coding Challenges Websites: <br> 
 [![Linkedin Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@leonardofelipe//)](https://www.hackerearth.com/@leonardofelipe) [![Linkedin Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/leonardo_felipe//)](https://www.hackerrank.com/leonardo_felipe)
