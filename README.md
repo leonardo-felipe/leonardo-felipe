@@ -5,6 +5,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/leonardo_felipe//)](https://www.hackerrank.com/leonardo_felipe)
 
+[![Linkedin Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@leonardofelipe//)](https://www.hackerearth.com/@leonardofelipe)
+
+
 <!--
 **leonardo-felipe/leonardo-felipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
