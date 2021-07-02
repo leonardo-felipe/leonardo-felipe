@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Leonardo, I'm from Recife, Brazil.
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
 <!--
@@ -16,3 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe)](https://github.com/leonardo-felipe)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe)](https://github.com/leonardo-felipe/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact)](https://github.com/leonardo-felipe/github-readme-stats)
