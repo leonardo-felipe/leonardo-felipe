@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe&theme=radical)](https://github.com/leonardo-felipe)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe&theme=dracula)](https://github.com/leonardo-felipe)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=radical)](https://github.com/leonardo-felipe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=dracula)](https://github.com/leonardo-felipe/github-readme-stats)
