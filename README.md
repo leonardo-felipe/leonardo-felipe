@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I'm Leonardo, I'm from Recife, Brazil.
-
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
 <!--
