@@ -19,7 +19,7 @@ My Profile in Coding Challenges Websites: <br>
 
 
 Blog: <br> 
-[![Linkedin Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@leonardo.felipe//)](https://medium.com/@leonardo.felipe) [![Linkedin Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/leonardo_felipe//)](https://dev.to/leonardo_felipe)
+[![Linkedin Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@leonardo.felipe//)](https://medium.com/@leonardo.felipe) [![Linkedin Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/leonardo_felipe//)](https://dev.to/leonardo_felipe)[![Linkedin Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@leonardofelipe//)](https://hashnode.com/@leonardofelipe)
 
 
 
