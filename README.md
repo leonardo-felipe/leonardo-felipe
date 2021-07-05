@@ -1,6 +1,6 @@
 Hi 👋,  I'm Leonardo Felipe!
 
-I'm a Systems Analysis and Development undergraduate student and I live in Recife, Brazil.
+<!-- I'm a Systems Analysis and Development undergraduate student and I live in Recife, Brazil. -->
 
  
  📫 How to reach me: 
