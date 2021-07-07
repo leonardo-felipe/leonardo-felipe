@@ -1,16 +1,14 @@
 Hi 👋,  I'm Leonardo Felipe!
 
-<!-- I'm a Systems Analysis and Development undergraduate student and I live in Recife, Brazil. -->
 
- <!--
- 📫 How to reach me: 
+ <!--📫 How to reach me: --> 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/19114354//)](https://www.sololearn.com/profile/19114354)
 
 
-
+<!--
 🔭 I’m currently working on TRE-PE.
 
 [![Linkedin Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
