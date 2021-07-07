@@ -7,8 +7,7 @@ Hi 👋,  I'm Leonardo Felipe!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/19114354//)](https://www.sololearn.com/profile/19114354)
 
-[![Linkedin Badge](http://arquivo.devmedia.com.br/marketing/img/logo-devmedia.png&link=https://www.sololearn.com/profile/19114354//)](https://www.sololearn.com/profile/19114354)
-
+https://www.devmedia.com.br/perfil/leonardo-felipe-3
 
 
 <!--
