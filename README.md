@@ -58,6 +58,8 @@ https://www.devmedia.com.br/perfil/leonardo-felipe-3
 My Profile in Coding Challenges Websites: <br> 
 [![Linkedin Badge](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@leonardofelipe//)](https://www.hackerearth.com/@leonardofelipe) [![Linkedin Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/leonardo_felipe//)](https://www.hackerrank.com/leonardo_felipe)
 
+https://www.codingame.com/profile/28a883179b456fa9de7a6b389d5ab1334165214
+
 
 
 Blog: <br> 
