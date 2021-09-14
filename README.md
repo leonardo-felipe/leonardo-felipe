@@ -75,8 +75,6 @@ UI Portfolio: <br>
 
 https://www.devmedia.com.br/perfil/leonardo-felipe-3
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
-
 
 
 
