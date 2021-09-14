@@ -1,11 +1,3 @@
- <!--📫 How to reach me: --> 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/19114354//)](https://www.sololearn.com/profile/19114354)
-
-https://www.devmedia.com.br/perfil/leonardo-felipe-3
-
 
 <!--
 🔭 I’m currently working on TRE-PE.
@@ -76,4 +68,15 @@ UI Portfolio: <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe&theme=vue-dark)](https://github.com/leonardo-felipe)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=vue-dark)](https://github.com/leonardo-felipe/github-readme-stats)
+
+ <!--📫 How to reach me: --> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/19114354//)](https://www.sololearn.com/profile/19114354)
+
+https://www.devmedia.com.br/perfil/leonardo-felipe-3
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardoofelipe//)](https://www.linkedin.com/in/leonardoofelipe/)
+
+
+
 
