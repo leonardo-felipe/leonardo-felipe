@@ -72,8 +72,9 @@ UI Portfolio: <br>
 --> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe&theme=vue-dark)](https://github.com/leonardo-felipe)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/19114354//)](https://www.sololearn.com/profile/19114354)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=vue-dark)](https://github.com/leonardo-felipe/github-readme-stats)
 
+[![Linkedin Badge](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white&link=https://www.sololearn.com/profile/19114354//)](https://www.sololearn.com/profile/19114354)
 
