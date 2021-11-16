@@ -38,7 +38,7 @@ UI Portfolio: <br>
 --> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe&theme=vue-dark)](https://github.com/leonardo-felipe)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact)](https://github.com/leonardo-felipe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=dark)](https://github.com/leonardo-felipe/github-readme-stats)
 
 Tecnologias Back-End
 
