@@ -19,6 +19,7 @@ Blog: <br>
 UI Portfolio: <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/leonardo-felipe//)](https://www.behance.net/leonardo-felipe)
 
+![Linkedin Badge](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 --> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe&theme=dark)](https://github.com/leonardo-felipe)
 
@@ -29,8 +30,6 @@ Tecnologias Back-End
 ![Linkedin Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Linkedin Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 ![Linkedin Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-![Linkedin Badge](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
 ![Linkedin Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
