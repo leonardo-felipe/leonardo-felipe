@@ -22,10 +22,7 @@ UI Portfolio: <br>
 ![Linkedin Badge](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
 ![Linkedin Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
---> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe&theme=dark)](https://github.com/leonardo-felipe)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=dark)](https://github.com/leonardo-felipe/github-readme-stats)
 
 Tecnologias Back-End
 
@@ -52,3 +49,9 @@ Outras tecnologias
 
 ![Linkedin Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+--> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-felipe&theme=dark)](https://github.com/leonardo-felipe)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=dark)](https://github.com/leonardo-felipe/github-readme-stats)
+
+
