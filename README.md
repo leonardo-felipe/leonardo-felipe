@@ -1,4 +1,4 @@
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=dark)](https://github.com/leonardo-felipe/github-readme-stats)
 
 ![Linkedin Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Linkedin Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
