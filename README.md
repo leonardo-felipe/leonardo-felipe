@@ -6,5 +6,5 @@
 ![Linkedin Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=leonardo-felipe&count_private=true&theme=tokyonight&showicons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=dark)](https://github.com/leonardo-felipe/github-readme-stats)
