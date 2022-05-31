@@ -3,9 +3,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=tokyonight)](https://github.com/leonardo-felipe/github-readme-stats)
 
 
+<img src="{https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white}" />
 
-
-![image]({https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white})
+![image]({})
 
 ![image]({https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white})
 
