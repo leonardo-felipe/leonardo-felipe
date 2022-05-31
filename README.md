@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/?username=leonardo-felipe&count_private=true&theme=tokyonight&showicons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=tokyonight)](https://github.com/leonardo-felipe/github-readme-stats)
 
-
+<!--
 Back-end
 
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
@@ -28,6 +28,6 @@ Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-<!--
+
 
 https://github.com/Ileriayo/markdown-badges#-frameworks-platforms-and-libraries
