@@ -2,6 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/?username=leonardo-felipe&count_private=true&theme=tokyonight&showicons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-felipe&layout=compact&theme=tokyonight)](https://github.com/leonardo-felipe/github-readme-stats)
 
+![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 
 <img src="{https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white}" />
 
